@@ -1,4 +1,4 @@
-var song;
+var song; //variable
 var sliderVolume;
 var sliderRate; //speed at which sound is played back - default = 1, double = 2
 var sliderPan; //left speaker (ear) to the right speaker (ear)
